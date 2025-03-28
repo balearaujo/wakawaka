@@ -3,7 +3,7 @@ const nombres = [
     { id: 340195, nombre: "Bale" },
     { id: 260982, nombre: "Robert" },
 ];
-
+//dab
 // Referencia al cuerpo de la tabla
 const tablaNombres = document.getElementById("tabla-nombres");
 
