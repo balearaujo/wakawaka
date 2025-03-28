@@ -1,7 +1,7 @@
 // Array de datos bale y miri y ceci son pro
 const nombres = [
-    { id: , nombre:  },
-    { id: , nombre: },
+    { id: 340195, nombre: "Bale" },
+    { id: 260982, nombre: "Robert" },
 ];
 //dab
 // Referencia al cuerpo de la tabla
