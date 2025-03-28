@@ -1,6 +1,6 @@
-// Array de datos
+// Array de datos bale y miri y ceci son pro
 const nombres = [
-    { id: 261177, nombre: "Cesar" },
+    { id: 340195, nombre: "Bale" },
     { id: 260982, nombre: "Robert" },
 ];
 
